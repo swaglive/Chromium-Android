@@ -1,4 +1,5 @@
 {
+    "build": { "dockerfile": "DOCKERFILE" },
 	"remoteEnv": {
 		"PATH": "${remoteEnv:PATH}:/workspaces/Chromium-Android/depot_tools"
 	}
